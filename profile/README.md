@@ -42,11 +42,8 @@ We don't compromise on hardware. Our infrastructure is built to deliver unparall
 ### 🤝 Connect With Us
 Whether you need support, want to request a feature, or just hang out with other developers, join our community!
 
-<a href="https://discord.gg/nodeway">
+<a href="https://discord.nodeway.net">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-<a href="https://twitter.com/nodeway">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 
 <br>
